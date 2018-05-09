@@ -4,7 +4,6 @@
   "description": "",
   "main": "actions.js",
   "dependencies": {
-    "eslint": "^4.19.1",
     "uuid": "^3.2.1"
   },
   "devDependencies": {},
