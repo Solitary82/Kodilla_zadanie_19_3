@@ -1,0 +1,17 @@
+{
+  "name": "Zadanie_19.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "actions.js",
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "gitignore": "curl https://raw.githubusercontent.com/github/gitignore/master/Node.gitignore -o .gitignore"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
